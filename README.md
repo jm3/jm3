@@ -1,6 +1,6 @@
-I'm <a rel="me" href="https://ruby.social/@jm3">@jm3@ruby.social</a>
+I'm <a rel="me" href="https://ruby.social/@jm3">jm3 on the ruby.social mastodon server</a>
 and
-I'm <a rel="me" href="https://mastodon.cloud/@jm3">@jm3@mastodon.cloud</a>
+I'm <a rel="me" href="https://mastodon.cloud/@jm3">jm3 on the mastodon.cloud mastodon server</a>
 
 <!--
 **jm3/jm3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
