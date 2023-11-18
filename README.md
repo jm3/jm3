@@ -2,7 +2,10 @@ I'm <a rel="me" href="https://ruby.social/@jm3">jm3 on the ruby.social mastodon 
 and
 I'm <a rel="me" href="https://mastodon.cloud/@jm3">jm3 on the mastodon.cloud mastodon server</a>
 
-I'm also [jm3]([url](https://twitter.com/jm3)) on twitter, [jm3]([url](https://trunk.lol/@jm3)) @ trunk.lol (my main mastodon account), [jm3]([url](https://dribbble.com/jm3)) @ the dribbble UI portfolio showcase site, and I'm also [jm3]([url](https://www.behance.net/jm3)) on behance (be.net/jm3)
+I'm also [jm3](https://twitter.com/jm3) on twitter, 
+[jm3](https://trunk.lol/@jm3) @ trunk.lol (my main mastodon account), 
+[jm3](https://dribbble.com/jm3) @ the dribbble UI portfolio showcase site, 
+and I'm also [jm3](https://www.behance.net/jm3) on behance (aka be.net/jm3).
 
 <!--
 **jm3/jm3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
